@@ -51,5 +51,6 @@
     "coverage",
     "dist"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "git repository": "https://github.com/hjaurum/yhsd-egg"
 }
