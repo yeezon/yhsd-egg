@@ -1,6 +1,6 @@
 {
   "name": "yhsd-egg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "dependencies": {
     "egg": "^2.3.0",
