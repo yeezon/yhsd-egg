@@ -3,7 +3,7 @@ const path = require('path');
 
 exports.yhsd = {
   enable: true,
-  path: path.join(__dirname, '../plugin/yhsd-api'),
+  path: path.join(__dirname, '../lib/plugin/yhsd-api'),
 };
 
 exports.sequelize = {
