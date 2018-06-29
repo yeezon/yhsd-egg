@@ -5,7 +5,7 @@
   npm install yhsd-egg --save
 ```
 
-### Futures
+### Features
 基于[egg.js](http://eggjs.org/zh-cn/)定制，与egg.js不同之处：
 ##### 中间件
 - 增加cors（跨域）中间件，配置：
